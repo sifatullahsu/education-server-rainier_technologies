@@ -13,4 +13,47 @@ JWT_SECRET="____ Any Text ___"
 JWT_EXPIRES_IN="10d"
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifatullahsu)
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sifatullahsu/education-server-rainier_technologies.git
+   cd education-server-rainier_technologies
+   ```
+
+2. Install project dependencies:
+
+   ```bash
+   yarn install
+   ```
+
+3. Run the project
+
+   ```bash
+   yarn dev
+   ```
+
+### Tech Stack
+
+- Node.js
+- Express.js
+- Mongoose, MongoDB
+- bcrypt
+- jsonwebtoken
+- zod
+
+### Development Tools
+
+- TypeScript
+- eslint
+- prettier
+- husky, lint-staged
+- ts-node-dev
+
+### Contact Me
+
+Feel free to reach out if you have any questions, suggestions, or just want to connect!
+
+- **Email:** personal.sifat@gmail.com
+- **LinkedIn:** [Sifat Ullah](https://www.linkedin.com/in/sifatullahsu/)
