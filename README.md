@@ -1,6 +1,6 @@
 # Education Server
 
-This is a task from Rainier Technologies. Where need to build simple backend. [Live Link](https://simple-dashboard-ten.vercel.app)
+This is a task from Rainier Technologies. Where need to build simple backend. [Live Link](https://education-server-lovat.vercel.app/)
 
 ```dotenv
 # Example .env Configuration
