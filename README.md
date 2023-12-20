@@ -51,6 +51,12 @@ JWT_EXPIRES_IN="10d"
 - husky, lint-staged
 - ts-node-dev
 
+### Postman
+
+Explore and test the API using our [Postman Collection](https://www.postman.com/sifatullahteam/workspace/public-workplace/collection/19376232-9695d55c-1070-420d-81d2-326a7869d0e5?action=share&creator=19376232).
+
+Note: `/api/courses` create, update, delete operations requires authentication token on headers.
+
 ### Contact Me
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
